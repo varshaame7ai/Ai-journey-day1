@@ -1,6 +1,21 @@
-### Day 3: Loops & Game ✅
-- while loop seekha - code ko repeat karana sikh liya
-- random module use kiya - computer se random number generate karaya
-- Project 3: Number Guessing Game banaya `day3.py` mein
-- if-else + while loop + input() sab combine kiya
-- Debugging kiya - tries counter ka bug khud fix kiya
+# Python + Excel Automation Journey 🐍📊
+
+Hi, I'm Varsha! Learning Python for freelancing.
+
+### Day 1-6 Progress:
+- **Day 1:** Print, Variables
+- **Day 2:** Input, Math
+- **Day 3:** If-Else Conditions  
+- **Day 4:** Lists & For Loops
+- **Day 5:** Creating Excel files with openpyxl
+- **Day 6:** Excel with multiple products & prices
+
+### Skills Learned:
+✅ Python Basics  
+✅ Excel Automation using openpyxl  
+✅ Git & Github
+
+### Goal: 
+Land my first $100 Fiverr order in Excel Automation
+
+#100DaysOfCode #Python #Freelancing
